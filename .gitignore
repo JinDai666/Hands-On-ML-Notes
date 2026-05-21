@@ -218,4 +218,14 @@ __marimo__/
 .streamlit/secrets.toml
 
 ch02-end-to-end-ml-project/datasets/
-ch03-classification/.DS_Store
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.AppleDouble
+.LSOverride
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
